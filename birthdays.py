@@ -7,11 +7,16 @@ HEAD
     'Rowan Atkinson': '01/6/1955',
     'Massimo XXXXX': '02/12/1998',
     'AAA BBB': '14/03/2000'
-=======
+ HEAD
+>>>>>>> 149ffc5e887e67734e9848c4963aa42fc905eae1
     'Rowan Atkinson': '01/6/1955'
     'Massimo Xxxxx': '02/12/1998'
 >>>>>>> main
 }
+
+    'Rowan Atkinson': '01/6/1955',
+    "Corinne XXX": "14/06/1999"}
+ corinne
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
