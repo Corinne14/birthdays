@@ -11,7 +11,7 @@ HEAD
 >>>>>>> 149ffc5e887e67734e9848c4963aa42fc905eae1
     'Rowan Atkinson': '01/6/1955'
     'Massimo Xxxxx': '02/12/1998'
->>>>>>> main
+main
 }
 
     'Rowan Atkinson': '01/6/1955',
