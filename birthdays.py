@@ -14,9 +14,6 @@ HEAD
 main
 }
 
-    'Rowan Atkinson': '01/6/1955',
-    "Corinne XXX": "14/06/1999"}
- corinne
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
