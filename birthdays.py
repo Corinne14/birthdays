@@ -14,7 +14,6 @@ HEAD
 main
 }
 
-
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
     for name in birthdays:
@@ -28,4 +27,3 @@ def return_birthday(name):
         
         
 print "hellow world"
-
