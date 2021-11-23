@@ -4,18 +4,18 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
 HEAD
-    'Rowan Atkinson': '01/6/1955'
+    'Rowan Atkinson': '01/6/1955',
     'Massimo XXXXX': '02/12/1998',
-    'AAA BBB': '14/03/2000'
+    'AAA BBB': '14/03/2000',
  HEAD
 >>>>>>> 149ffc5e887e67734e9848c4963aa42fc905eae1
-    'Rowan Atkinson': '01/6/1955'
-    'Massimo Xxxxx': '02/12/1998'
+    'Rowan Atkinson': '01/6/1955',
+    'Massimo Xxxxx': '02/12/1998',
 >>>>>>> main
 }
 
     'Rowan Atkinson': '01/6/1955',
-    "Corinne XXX": "14/06/1999",
+    'Corinne XXX': '14/06/1999',
     'Cori AAA': '12/12/12'}
  corinne
  
