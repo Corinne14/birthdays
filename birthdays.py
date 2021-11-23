@@ -4,7 +4,7 @@ birthdays = {
     'Ada Lovelace': '12/10/1815',
     'Donald Trump': '06/14/1946',
 HEAD
-    'Rowan Atkinson': '01/6/1955',
+    'Rowan Atkinson': '01/6/1955'
     'Massimo XXXXX': '02/12/1998',
     'AAA BBB': '14/03/2000'
  HEAD
