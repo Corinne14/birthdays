@@ -15,9 +15,10 @@ HEAD
 }
 
     'Rowan Atkinson': '01/6/1955',
-    "Corinne XXX": "14/06/1999"}
+    "Corinne XXX": "14/06/1999",
+    'Cori AAA': '12/12/12'}
  corinne
- hello everyone
+ 
 
 def print_birthdays():
     print('Welcome to the birthday dictionary. We know the birthdays of these people:')
